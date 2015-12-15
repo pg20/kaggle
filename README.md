@@ -1,2 +1,2 @@
 # kaggle
-Solved Problems on Kaggle in R and Python
+Solutions of  Problems on Kaggle in R and Python
