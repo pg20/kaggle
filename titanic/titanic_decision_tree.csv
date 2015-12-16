@@ -1,0 +1,3 @@
+#read data
+tdata <- read.table("/home/pramiti/R_codes/kaggle/titanic/train.csv", header=FALSE, sep="", colClasses = c(rep("numeric",14)))
+View(tdata)
